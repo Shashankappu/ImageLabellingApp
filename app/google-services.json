@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956099421832",
+    "project_id": "ml-and-android",
+    "storage_bucket": "ml-and-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956099421832:android:3f8482df19d6a06bfde13d",
+        "android_client_info": {
+          "package_name": "com.shashanksp.imagelabellingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956099421832-eorikns8oh9s18ote1qhu1gr3m8277fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shashanksp.imagelabellingapp",
+            "certificate_hash": "a5d089b19ec94fc4bcfb7316d7420d5a9ce471d2"
+          }
+        },
+        {
+          "client_id": "956099421832-dnoug2a0fn5lot14rve23k3m7efjh7f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8z7orSvTNKG6SuIrtRMBs3vhx4HuPIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956099421832-dnoug2a0fn5lot14rve23k3m7efjh7f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
